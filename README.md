@@ -44,5 +44,5 @@ Edit `config.yml` to customize:
 
 ## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE] file for details.
+This project is licensed under the MIT License - see the https://github.com/THGDARK/Easy-Enchant/blob/main/LICENSE file for details.
 
